@@ -16,3 +16,5 @@ class store {
 	}
 	System.out.println(“the total is : “ +receipt);
 	}}} 
+items more than 10=items*0.25;
+print new items
