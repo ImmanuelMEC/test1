@@ -1,0 +1,18 @@
+class store {
+           public static void main (String[] argg) {
+               Scanner ui= new Scanner(System.in);
+               System.out.println(“ Number of items purchases : ”);
+                Int number=ui.nextInt();
+                If (number = = 0) {
+                 System.out.println (“ Nothing Purchased”);
+	}
+	Else {
+	Int qoq[] = newInt(number);
+	Int bu[]=0;
+	System.out.println(“Please enter the price of items : ”)
+	For (int i=0; I < number ; i++)
+ 	{ qoq[i] = sc.nextInt();
+	Receipt +=qoq[i];
+	}
+	System.out.println(“the total is : “ +receipt);
+	}}} 
